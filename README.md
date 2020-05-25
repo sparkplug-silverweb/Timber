@@ -1,2 +1,2 @@
 # Timber
-Game made in SlimDX
+Game made in SFML
